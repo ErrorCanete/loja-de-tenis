@@ -1,0 +1,54 @@
+<html>
+
+<head>
+<title> Loja Pe Personalizado </title>
+<meta charset="utf-8">
+</head>
+
+<body>
+<h1> Bem Vindo(a) a loja Pé Personalizado</h1>
+<h2> Veja e aproveite nossos produtos </h2>
+
+<a href="tenispreto.html">Tenis Preto</a>
+
+
+<img src="tenispreto.jpg" "width=409"" height="190">
+<h2> Tenis Preto </h2>
+<p> Tenis Preto Yeezy do Kanye West R$399,99 </p>
+<h6> <p> 4 em estoque </p> </h6>
+
+<a href="sonic.html">Tenis Sonic</a>
+
+<img src="TenisSonic.png" width=409"" height="190">
+<h2> Tenis Sonic </h2>
+<p> Tenis Do Sonic para corridas extremas R$4999,99 </p>
+<h6> <p> 15 em estoque </p> </h6>
+
+<a href="peixe.html">Tenis Peixe</a>
+
+
+<img src=peixe.png width="409" height="190">
+<h2> Tenis Peixe </h2>
+<p> Tenis Peixe Para Passeios Molhados e Relaxantes R$999,99 </p>
+<h6> <p> ESTOQUE ESGOTADO </p> </h6>
+
+<a href="Tenis Veio.html">Tenis Veio</a>
+
+<img src="Tenis Veio.jpg" width="409" height="190">
+<h2> Tenis Novo Balenciaga </h2>
+<p> Tenis Estiloso Novo e Limpo Balenciaga R$1399,99
+<h6> <p> 137 em estoque </p> </h6> 
+
+<a href="Dedo.html">Tenis Com Dedo</a>
+
+
+<img src=Dedo.jpg width="409" height="190">
+<h2> Tenis Com Dedo </h2>
+<p> Tenis De Conforto Extremo R$459,99 </p>
+<h6> <p> 22 em estoque </p> </h6> 
+<h3> NA COMPRA DE 2 PRODUTOS LEVE UM CHINELO QUADRADO DE BRINDE </h3>
+<img src=quadrado.jpeg width="409" height="190"  
+<h6> apenas compras feitas no dia podem participar da promoção </h6>
+
+</body>
+</html>
